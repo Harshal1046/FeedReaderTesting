@@ -23,4 +23,26 @@ You will learn how to use Jasmine to write a number of tests against a pre-exist
 
 ## Steps Required To Run The Application :
 
- Download the *repository* [Feed Reader Testing From Here](https://github.com/Harshal1046/FeedReaderTesting). And Open the *index.html* in Your Browser. 
+Download the *repository* [Feed Reader Testing From Here](https://github.com/Harshal1046/FeedReaderTesting). And Open the *index.html* in Your Browser. 
+
+## Tests Performed :
+
+* RSS Feeds
+	* To Ensure That Feeds Are Defined.
+	* To Ensure That URLs Are Defined.
+	* To Ensure That Names Are Defined.
+
+* The Menu
+	* To Ensure That Menu Element Is Hidden By Default.
+	* To Ensure That Menu Changes Visibility When The Menu Icon Is Clicked.
+
+* Initial Entries
+	* To Ensure That There Is Atleast 1 Entry.
+
+* New Feed Selection
+	* To Ensure That Content Changes When New Feed Is Loaded.
+
+## Images :
+
+![RSS Feed](img/Feed.png)
+![Test Result](img/FeedReaderTest.png)
